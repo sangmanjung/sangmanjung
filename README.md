@@ -1,13 +1,13 @@
 ### Sangman Jung
   
 #### Personal Data
-Birth: 30th October, 1992, in Republic of Korea
-Nationality: Korean
-Family Status: Single
+Birth: 30th October, 1992, in Republic of Korea  
+Nationality: Korean  
+Family Status: Single  
 Language: First language Korean, Convensational in English
   
 #### Education
-(B.S) Department of Applied Mathematics | Kyung Hee University
+(B.S) Department of Applied Mathematics | Kyung Hee University  
 (M.S) Department of Mathematics | Kyung Hee University
   
 #### Research interest
