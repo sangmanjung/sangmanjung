@@ -1,10 +1,12 @@
 ### Sangman Jung
   
-#### Education
+Hello. This page is for saving and managing contents of my current studies and reports. If you ask me about anything, contact this e-mail: 📫 sangmanjung@khu.ac.kr
+  
+#### 🌱 Education
 (B.S) Department of Applied Mathematics | Kyung Hee University  
 (M.S) Department of Mathematics | Kyung Hee University (Advisor: Prof. Kyungsoo Kim)
   
-#### Research interest
+#### ⚡ Research interest
   
 + Numerical Analysis
   - Numerical Method for ODEs and PDEs
