@@ -2,7 +2,7 @@
   
 #### Education
 (B.S) Department of Applied Mathematics | Kyung Hee University  
-(M.S) Department of Mathematics | Kyung Hee University
+(M.S) Department of Mathematics | Kyung Hee University (Advisor: Prof. Kyungsoo Kim)
   
 #### Research interest
   
