@@ -11,9 +11,6 @@ Language: First language Korean, Convensational in English
 (M.S) Department of Mathematics | Kyung Hee University
   
 #### Research interest
-+ Applied Algebraic Topology
-  - Topological Data Analysis
-  - Computational Topology
   
 + Numerical Analysis
   - Numerical Method for ODEs and PDEs
@@ -21,6 +18,10 @@ Language: First language Korean, Convensational in English
 + Artificial Intelligence
   - Machine Learning
   - Deep Learning
+  
++ Applied Algebraic Topology
+  - Topological Data Analysis
+  - Computational Topology
 <!--
 **normal92/normal92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
