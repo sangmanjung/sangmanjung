@@ -5,20 +5,20 @@ _If you ask me about anything, contact this e-mail 📫: sangmanjung@khu.ac.kr_
   
 #### 🌱 Education
 (B.S) Department of Applied Mathematics | Kyung Hee University  
-(M.S) Department of Mathematics | Kyung Hee University (_Advisor: Prof. Kyungsoo Kim_)
+(M.S) Department of Mathematics | Kyung Hee University (Advisor: Prof. Kyungsoo Kim)
   
 #### ⚡ Research interest
   
 + Numerical Analysis
-  - _Numerical Method for ODEs and PDEs_
+  - Numerical Method for ODEs and PDEs
   
 + Artificial Intelligence
-  - _Machine Learning_
-  - _Deep Learning_
+  - Machine Learning
+  - Deep Learning
   
 + Applied Algebraic Topology
-  - _Topological Data Analysis_
-  - _Computational Topology_
+  - Topological Data Analysis
+  - Computational Topology
 <!--
 **normal92/normal92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
