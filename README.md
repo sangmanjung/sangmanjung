@@ -12,15 +12,15 @@ Language: First language Korean, Convensational in English
   
 #### Research interest
 + Applied Algebraic Topology
-- Topological Data Analysis
-- Computational Topology
+  - Topological Data Analysis
+  - Computational Topology
   
 + Numerical Analysis
-- Numerical Method for ODEs and PDEs
+  - Numerical Method for ODEs and PDEs
   
 + Artificial Intelligence
-- Machine Learning
-- Deep Learning
+  - Machine Learning
+  - Deep Learning
 <!--
 **normal92/normal92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
