@@ -4,9 +4,9 @@ _Hello. This page is for saving and managing the contents of my current studies 
 _If you ask me about anything, contact this e-mail 📫: sangmanjung@khu.ac.kr_
   
 #### 🌱 Education
->(B.S) Department of Applied Mathematics | Kyung Hee University  
-(M.S) Department of Mathematics | Kyung Hee University (Advisor: Prof. Kyungsoo Kim)  
-_(Mathematical Modelling and Analysis Lab)_
+(B.S) Department of Applied Mathematics | Kyung Hee University  
+(M.S) Department of Mathematics | Kyung Hee University　(Advisor: Prof. Kyungsoo Kim)  
+　　　　　　　　　　　　　　　　　　　　　　　　　　_(Mathematical Modelling and Analysis Lab)_
   
 #### ⚡ Research interest
   
