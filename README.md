@@ -10,10 +10,12 @@ _If you ask me about anything, contact this e-mail 📫: sangmanjung@khu.ac.kr_
 #### ⚡ Research interest
   
 + Numerical Analysis
-  - Numerical Method for ODEs and PDEs  
+  - Numerical Method for ODEs and PDEs
+    
 + Artificial Intelligence
   - Machine Learning
-  - Deep Learning  
+  - Deep Learning
+    
 + Applied Algebraic Topology
   - Topological Data Analysis
   - Computational Topology
