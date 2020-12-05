@@ -3,11 +3,11 @@
 _👋 Hello. This page is for saving and managing the contents of my current studies and reports. 🤔_  
 _If you ask me about anything, 💬 contact this e-mail 📫: sangmanjung@khu.ac.kr_
   
-#### 🌱 Education
+#### 🎓 Education
 2016.03 ~ 2019.02 : (B.S) Department of Applied Mathematics | Kyung Hee University  
 2019.03 ~ present : (M.S Candidate) Department of Mathematics | Kyung Hee University　(Advisor: Prof. Kyungsoo Kim)  
   
-#### ⚡ Research interest
+#### 💡 Research interest
   
 + Numerical Analysis
   - _Numerical Method for ODEs and PDEs_
