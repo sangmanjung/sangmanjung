@@ -1,24 +1,24 @@
 ### Sangman Jung
   
 _Hello. This page is for saving and managing the contents of my current studies and reports._  
-_If you ask me about anything, contact this e-mail 📫: sangmanjung@khu.ac.kr_
+_If you ask me about anything, 💬 contact this e-mail 📫: sangmanjung@khu.ac.kr_
   
 #### 🌱 Education
-(B.S) Department of Applied Mathematics | Kyung Hee University  
-(M.S) Department of Mathematics | Kyung Hee University　(Advisor: Prof. Kyungsoo Kim)  
+2016.03 ~ 2019.02 : (B.S) Department of Applied Mathematics | Kyung Hee University  
+2019.03 ~ present : (M.S Candidate) Department of Mathematics | Kyung Hee University　(Advisor: Prof. Kyungsoo Kim)  
   
 #### ⚡ Research interest
   
 + Numerical Analysis
-  - Numerical Method for ODEs and PDEs
+  - _Numerical Method for ODEs and PDEs_
     
 + Artificial Intelligence
-  - Machine Learning
-  - Deep Learning
+  - _Machine Learning_
+  - _Deep Learning_
     
 + Applied Algebraic Topology
-  - Topological Data Analysis
-  - Computational Topology
+  - _Topological Data Analysis_
+  - _Computational Topology_
 <!--
 **normal92/normal92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
