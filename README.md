@@ -1,6 +1,6 @@
 ### Sangman Jung
   
-_Hello. This page is for saving and managing the contents of my current studies and reports._  
+_👋 Hello. This page is for saving and managing the contents of my current studies and reports. 🤔_  
 _If you ask me about anything, 💬 contact this e-mail 📫: sangmanjung@khu.ac.kr_
   
 #### 🌱 Education
