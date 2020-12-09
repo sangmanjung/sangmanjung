@@ -1,7 +1,7 @@
-### Sangman Jung (정상만)
+### Sang-man Jung (정상만)
   
-_Hi there!👋 I am a beginner with a lot of interest in data science from South Korea._ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangmanjung&count_bg=%239EB7FF&title_bg=%230077EB&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=true)](https://hits.seeyoufarm.com)  
-_If you ask me about anything, 🤔 contact this 📫_ : [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangmanjung@khu.ac.kr)](mailto:sangmanjung@khu.ac.kr)
+_Hi there!👋 This is_ Sang-man _from South Korea. I am a beginner in_ Data Science, _but have a lot of interest in it._ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangmanjung&count_bg=%239EB7FF&title_bg=%230077EB&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=true)](https://hits.seeyoufarm.com)  
+_If you want to contact me, 🤔 contact this 📫_ : [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangmanjung@khu.ac.kr)](mailto:sangmanjung@khu.ac.kr)
 
   
 #### 🎓 Education
