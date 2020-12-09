@@ -1,8 +1,7 @@
-### Hi there 👋  
+### Sangman Jung (정상만)
   
-_This page is for saving and managing the contents of my current studies and reports. 🤔_ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangmanjung&count_bg=%239EB7FF&title_bg=%230077EB&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=true)](https://hits.seeyoufarm.com)  
-  
-_If you ask me about anything, 💬 contact this 📫_ : [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangmanjung@khu.ac.kr)](mailto:sangmanjung@khu.ac.kr)
+_Hi there!👋 I am a beginner with a lot of interest in data science from South Korea._ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangmanjung&count_bg=%239EB7FF&title_bg=%230077EB&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=true)](https://hits.seeyoufarm.com)  
+_If you ask me about anything, 🤔 contact this 📫_ : [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangmanjung@khu.ac.kr)](mailto:sangmanjung@khu.ac.kr)
 
   
 #### 🎓 Education
