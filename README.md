@@ -11,11 +11,11 @@ _If you ask me about anything, 💬 contact this e-mail 📫: sangmanjung@khu.ac
   
 #### 💡 Research interest
   
-+ Numerical Analysis
++ Numerical Analysis : _Numerical methods for ODEs and PDEs_
 
-+ Artificial Intelligence
++ Artificial Intelligence : _Machine learning and Deep learning_
     
-+ Computational Topology
++ Computational Topology : _Topological data analysis_
 <!--
 **normal92/normal92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
