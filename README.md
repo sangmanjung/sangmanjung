@@ -1,8 +1,8 @@
 ### Hi there 👋  
   
-_This page is for saving and managing the contents of my current studies and reports. 🤔_ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangmanjung&count_bg=%23FFB0B0&title_bg=%23FF3D3D&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)  
+_This page is for saving and managing the contents of my current studies and reports. 🤔_ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangmanjung&count_bg=%239EB7FF&title_bg=%230077EB&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)  
   
-_If you ask me about anything, 💬 contact this e-mail 📫: sangmanjung@khu.ac.kr_ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:sangmanjung@khu.ac.kr)
+_If you ask me about anything, 💬 contact this e-mail 📫: sangmanjung@khu.ac.kr_ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangmanjung@khu.ac.kr)](mailto:sangmanjung@khu.ac.kr)
 
   
 #### 🎓 Education
