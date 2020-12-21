@@ -1,6 +1,7 @@
 ### Sang-man Jung (정상만)
   
 _Hi there!👋 This is_ Sang-man _from South Korea. I am a beginner in_ Data Science, _but have a lot of interest in it._  
+  
 _If you want to contact me, 🤔 contact this 📫_ : [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangmanjung@khu.ac.kr)](mailto:sangmanjung@khu.ac.kr)
 
   
