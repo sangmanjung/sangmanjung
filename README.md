@@ -1,14 +1,14 @@
   
-_Hi there!👋 This is_ Sang-man _from South Korea. I am a self-learner in_ Data Science _and have a lot of interest in it._  
+__Hi there!👋__ _This is_ Sang-man _from South Korea. I am a self-learner in_ Data Science _and have a lot of interest in it._  
 _If you want to contact me, 🤔 please leave me a message! 📫_
 
   
-### 🎓 Education
+#### 🎓 Education
 
 + 2016.03 ~ 2019.02 : (B.S) Department of Applied Mathematics | Kyung Hee University  
 + 2019.03 ~ present : (M.S Candidate) Department of Mathematics | Kyung Hee University　(Advisor: Prof. Kyungsoo Kim)    
 
-### 💡 Research interest
+#### 💡 Research interest
   
 + Numerical Analysis : _Numerical methods for ODEs and PDEs_
 + Artificial Intelligence : _Machine learning and Deep learning_
