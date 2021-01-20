@@ -1,5 +1,7 @@
   
-__Hi there!👋__ _This is_ Sang-man _from South Korea. I am a self-learner in_ Data Science _and have a lot of interest in it._  
+__Hi there!👋__   
+  
+_This is_ Sang-man _from South Korea. I am a self-learner in_ Data Science _and have a lot of interest in it._  
 _If you want to contact me, 🤔 please leave me a message! 📫_
 
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/sangmanjung/)](https://www.linkedin.com/in/sangmanjung/)
