@@ -1,7 +1,7 @@
   
-### Hi there!👋   
+### "Be Happy, but Never Satisfied."   
   
-This is Sangman from South Korea. I am a self-learner in Data Science and have a lot of interest in it. 🥯☕  
+Hi there!. This is Sangman from South Korea. I am a self-learner in Data Science and have a lot of interest in it. 🥯☕  
 If you want to contact me, 🤔 please leave me a message! 📫  
   
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@sangmanjung)](https://velog.io/@sangmanjung/)
