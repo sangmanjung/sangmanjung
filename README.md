@@ -4,6 +4,9 @@
 Hi there!. This is Sangman from South Korea. I am a self-learner in Data Science and have a lot of interest in it. 🥯☕  
   
   (I'm going to leave it here for a while. 🙈)
+   
+- Notion Profile Link:
+  - https://sangmanjung.notion.site/Sangman-Jung-5f5e96a9f5584e9eba7c91c75828a36b
   
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/sangmanjung/)](https://www.linkedin.com/in/sangmanjung/)
 <!--
