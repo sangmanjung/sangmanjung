@@ -6,7 +6,6 @@ Hi there!. This is Sangman from South Korea. I am a self-learner in Data Science
   (I'm going to leave it here for a while. 🙈)
    
    
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://sangmanjung.notion.site/Sangman-Jung-5f5e96a9f5584e9eba7c91c75828a36b)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangmanjung/)
 <!--
 **normal92/normal92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
