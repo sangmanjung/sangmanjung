@@ -1,7 +1,7 @@
   
 ### "Be Happy, but Never Satisfied."   
   
-Hello. This is Sangman Jung, who is highly interested in data science and business problems. Currently, this place is used for personal data storage, so I am not actively engaged in any current activities. Therefore, if you have any questions, please feel free to contact me via the email listed on my profile!
+Hello! This is Sangman Jung, who is highly interested in data science and business problems. Currently, this place is used for personal data storage, so I am not actively engaged in any current activities. Therefore, if you have any questions, please feel free to contact me via the email listed on my profile!
    
 
 <!--
