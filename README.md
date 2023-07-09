@@ -1,9 +1,7 @@
   
 ### "Be Happy, but Never Satisfied."   
   
-Hi there!. This is Sangman from South Korea. I am a self-learner in Data Science and have a lot of interest in it. 🥯☕  
-  
-  (I'm going to leave it here for a while. 🙈)
+Hello. This is Sangman Jung, who is highly interested in data science and business problems. Currently, this place is used for personal data storage, so I am not actively engaged in any current activities. Therefore, if you have any questions, please feel free to contact me via the email listed on my profile!
    
 
 <!--
